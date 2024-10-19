@@ -1,0 +1,3 @@
+Mi IP Publica es: 186.39.116.117
+Mi usuario es: root
+El Hash de mi Usuario es: *
